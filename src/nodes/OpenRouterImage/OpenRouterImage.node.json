@@ -1,0 +1,21 @@
+{
+	"node": "n8n-nodes-openrouter-image",
+	"nodeVersion": "1.1",
+	"codexVersion": "1.1",
+	"categories": [
+		"Development",
+		"Developer Tools"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://doc.com/api-reference"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://doc.api.com/api-reference"
+			}
+		]
+	}
+}
