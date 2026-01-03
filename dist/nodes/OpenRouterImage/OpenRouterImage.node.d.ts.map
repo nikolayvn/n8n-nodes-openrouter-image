@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenRouterImage.node.d.ts","sourceRoot":"","sources":["../../../src/nodes/OpenRouterImage/OpenRouterImage.node.ts"],"names":[],"mappings":"AAAA,OAAO,EAGH,iBAAiB,EACjB,kBAAkB,EAClB,SAAS,EACT,oBAAoB,EAEvB,MAAM,cAAc,CAAC;AAGtB,qBAAa,eAAgB,YAAW,SAAS;IAC7C,WAAW,EAAE,oBAAoB,CAqB/B;IA0CI,OAAO,CAAC,IAAI,EAAE,iBAAiB,GAAG,OAAO,CAAC,kBAAkB,EAAE,EAAE,CAAC;CAsR1E"}
