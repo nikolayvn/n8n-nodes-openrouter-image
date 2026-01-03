@@ -1,13 +1,14 @@
 import {
   ICredentialType,
   INodeProperties,
+  IconFile
   // Themed,
   ///ICredentialTestRequest,
 } from 'n8n-workflow';
 
 export class OpenRouterApi implements ICredentialType {
   name = 'OpenRouterApi';
-  icon = 'file:openrouter.svg';
+  icon = `file:openrouter.svg` as IconFile;
   displayName = 'Параметры доступа к OpenRouter API';
   documentationUrl = 'https://docs.example.com/api';
   properties: INodeProperties[] = [
